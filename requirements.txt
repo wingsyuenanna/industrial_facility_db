@@ -1,0 +1,10 @@
+pandas
+pyarrow
+duckdb
+polars
+openpxyl
+matplotlib
+plotly
+nbformat
+seaborn
+folium
